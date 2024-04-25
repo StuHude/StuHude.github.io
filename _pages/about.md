@@ -22,9 +22,9 @@ I am a junior student at <a href='https://www.zju.edu.cn/english/'>Zhejiang Univ
 My research interest is **computer vision** and I have been working as a **research assistant** in <a href='https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm'>State Key Laboratory of Computer-aided Design & Computer Graphics</a> at Zhejiang University since September 2022 under the supervision of <a href='https://www.xzhou.me/'>Prof. Xiaowei Zhou</a> and <a href='https://pengsida.net/'>Sida Peng</a>.
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 I win the Zhejiang Government Scholarship!
-- *2023.11*: &nbsp;🎉🎉 I win the Second Class Scholarship in Zhejiang University!
-- *2023.01*: &nbsp;🎉🎉 I win the Meritorious Winner of The Interdisciplinary Contest in Modeling, teamed up with Shuai Yang and Wei Zhou.
+- *2023.11*: &nbsp;🎉🎉 I win the **Zhejiang Government Scholarship**!
+- *2023.11*: &nbsp;🎉🎉 I win the **Second Class Scholarship** in Zhejiang University!
+- *2023.01*: &nbsp;🎉🎉 I win the **Meritorious Winner** of The Interdisciplinary Contest in Modeling, teamed up with Shuai Yang and Wei Zhou.
 
 # 📝 Publications 
 

@@ -17,42 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a junior student at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, majoring in Software Engineering, minor in Advanced Honor Class of Engineering Education at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>, and will graduate from Zhejiang University with a B.S. in Engineering in 2025!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest is computer vision and I have been working as a research assistant in <a href='https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm'>State Key Laboratory of Computer-aided Design & Computer Graphics</a> at Zhejiang University since September 2022 under the supervision of <a href='https://www.xzhou.me/'>Prof. Xiaowei Zhou</a> and <a href='https://pengsida.net/'>Sida Peng</a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 I win the Zhejiang Government Scholarship!
+- *2023.11*: &nbsp;🎉🎉 I win the Second Class Scholarship in Zhejiang University!
+- *2023.01*: &nbsp;🎉🎉 I am the Meritorious Winner of The Interdisciplinary Contest in Modeling, teamed up with Shuai Yang and Wei Zhou.
 
 # 📝 Publications 
+
+<a href='https://scholar.google.com/citations?user=Hsxmwr0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Street gaussians for modeling dynamic urban scenes](https://arxiv.org/abs/2401.01339)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* Zhejiang Government Scholarship
+- *2023.11* Zhejiang University Jiecang Linear Motion Technology Scholarship 
+- *2023.11* Second Class Scholarship in Zhejiang University 
+- *2023.10* Academic Excellence Pioneer of Zhejiang University
+- *2023.06* Third Prize in the Final of the 16th Mock Mayor's Forum of Zhejiang University
+- *2023.01* Second Prize of National College Students Mathematics Competition in Zhejiang Province
+- *2023.01* Third Prize of National College Students' Physics Competition in Zhejiang Province
+- *2022.11* Third Class Scholarship in Zhejiang University 
+- *2022.10* Academic Excellence Pioneer of Zhejiang University
+- *2021.01* Second Prize of China National Mathematics Olympiad in Shaanxi Province
+- *2021.01* Third Prize of Chinese Physics Olympiad in Shaanxi Province
+- *2020.07* Merit Student of Shaanxi Province
+- *2020.01* Third Prize of Chinese Chemistry Olympiad in Shaanxi Province
+- *2019.12* Outstanding Middle School Student, Xi'an City, Shaanxi Province
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - 2025.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a Bachelor's degree in Software Engineering with a minor in Advanced Honor Class of Engineering Education at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>. 
+- *2018.09 - 2021.06*, <a href='https://cadyzx.a.101.com/'>Xian Changan No.1 High School</a>. I was a student in the experimental class of Chang'an No. 1 High School and am tutored for high school competitions at the same time.

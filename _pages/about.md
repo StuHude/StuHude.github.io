@@ -28,8 +28,6 @@ My research interest is computer vision and I have been working as a research as
 
 # 📝 Publications 
 
-<a href='https://scholar.google.com/citations?user=Hsxmwr0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/street_gaussians.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +56,7 @@ Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xi
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a Bachelor's degree in Software Engineering with a minor in Advanced Honor Class of Engineering Education at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>. 
-- *2018.09 - 2021.06*, <a href='https://cadyzx.a.101.com/'>Xian Changan No.1 High School</a>. I was a student in the experimental class of Chang'an No. 1 High School and am tutored for high school competitions at the same time.
+- *2018.09 - 2021.06*, <a href='https://cadyzx.a.101.com/'>Xian Changan No.1 High School</a>. I was a student in the experimental class of Chang'an No. 1 High School and tutored for high school competitions at the same time.
 
 # 🎹 Interesting Things!
 - I have a blog <a href='https://lhmd.github.io/blog'>🏛️ lhmd's code space</a> written mostly in Chinese Mandarin, and a note website <a href=''></a> for documenting the learning process.

@@ -31,7 +31,7 @@ My research interest is computer vision and I have been working as a research as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/street_gaussians.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Street gaussians for modeling dynamic urban scenes](https://arxiv.org/abs/2401.01339)
+[Street gaussians for modeling dynamic urban scenes](https://zju3dv.github.io/street_gaussians/)
 
 Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng
 

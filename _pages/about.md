@@ -62,4 +62,4 @@ Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xi
 - *2018.09 - 2021.06*, <a href='https://cadyzx.a.101.com/'>Xian Changan No.1 High School</a>. I was a student in the experimental class of Chang'an No. 1 High School and tutored for high school competitions at the same time.
 
 # 🎹 Interesting Things!
-- I have a blog <a href='https://blog.lhmd.top'>💬 lhmd's code space</a> written mostly in Chinese Mandarin, and a note website <a href='note.lhmd.top'>🏛️ lhmd's note</a> for documenting the learning process.
+- I have a blog <a href='https://blog.lhmd.top'>💬 lhmd's code space</a> written mostly in Chinese Mandarin, and a note website <a href='https://note.lhmd.top'>🏛️ lhmd's note</a> for documenting the learning process.

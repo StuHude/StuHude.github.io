@@ -63,4 +63,3 @@ Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xi
 
 # 🎹 Interesting Things!
 - I have a blog <a href='https://lhmd.github.io/blog'>💬 lhmd's code space</a> written mostly in Chinese Mandarin, and a note website <a href=''>🏛️ lhmd's note</a> for documenting the learning process.
-- 

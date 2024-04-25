@@ -59,3 +59,6 @@ Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xi
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a Bachelor's degree in Software Engineering with a minor in Advanced Honor Class of Engineering Education at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>. 
 - *2018.09 - 2021.06*, <a href='https://cadyzx.a.101.com/'>Xian Changan No.1 High School</a>. I was a student in the experimental class of Chang'an No. 1 High School and am tutored for high school competitions at the same time.
+
+# 🎹 Interesting Things!
+- I have a blog <a href='https://lhmd.github.io/blog'>🏛️ lhmd's code space</a> written mostly in Chinese Mandarin, and a note website <a href=''></a> for documenting the learning process.

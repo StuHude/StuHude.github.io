@@ -31,9 +31,12 @@ My research interest is **computer vision** and I have been working as a **resea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/street_gaussians.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Street gaussians for modeling dynamic urban scenes](https://zju3dv.github.io/street_gaussians/)
+[Street gaussians for modeling dynamic urban scenes](https://arxiv.org/abs/2401.01339)
 
 Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng
+
+[**Project**](https://zju3dv.github.io/street_gaussians/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:u5HHmVD_uO8C'></span></strong>
+- This paper aims to tackle the problem of modeling dynamic urban street scenes from monocular videos. 
 
 </div>
 </div>

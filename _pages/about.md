@@ -24,6 +24,7 @@ My research interest is **computer vision** and I have been working as a **resea
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 I win the **Zhejiang Government Scholarship**!
 - *2023.11*: &nbsp;🎉🎉 I win the **Second Class Scholarship** in Zhejiang University!
+- *2023.08*: &nbsp;🎉🎉 I completed the <a href='https://cgpc2023.github.io/index.html'>**CCF Computer Graphics Starter Program Summer Camp**</a> at Tsinghua University!
 - *2023.01*: &nbsp;🎉🎉 I win the **Meritorious Winner** of The Interdisciplinary Contest in Modeling, teamed up with Shuai Yang and Wei Zhou.
 
 # 📝 Publications 

@@ -34,7 +34,7 @@ My research interest is **computer vision** and I have been working as a **resea
 
 [SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models](https://arxiv.org/abs/2406.09098)
 
-Kehua Feng*, Keyan Ding*, **Weijie Wang***, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen
+Kehua Feng†, Keyan Ding†, **Weijie Wang**†, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen(† equal contribution)
 
 [**Project**](http://scimind.ai/sciknoweval/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
 - This paper introduce the SciKnowEval benchmark, a novel framework that systematically evaluates LLMs across five progressive levels of scientific knowledge. Specifically, we take biology and chemistry as the two instances of SciKnowEval and construct a dataset encompassing 50K multi-level scientific problems and solutions.

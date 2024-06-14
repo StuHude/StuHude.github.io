@@ -19,7 +19,6 @@ redirect_from:
 
 I am a junior student at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, majoring in **Software Engineering**, minor in Advanced Honor Class of Engineering Education(ACEE) at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>, and will graduate from Zhejiang University with a B.S. in Engineering in 2025!
 
-<!-- My research interest is **computer vision** and I have been working as a **research assistant** in <a href='https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm'>State Key Laboratory of Computer-aided Design & Computer Graphics</a> at Zhejiang University since September 2022 under the supervision of <a href='https://www.xzhou.me/'>Prof. Xiaowei Zhou</a> and <a href='https://pengsida.net/'>Sida Peng</a>. -->
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 I win the **Zhejiang Government Scholarship**!

@@ -29,6 +29,16 @@ My research interest is **computer vision** and I have been working as a **resea
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sciknoweval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models](https://arxiv.org/abs/2406.09098)
+
+Kehua Feng*, Keyan Ding*, **Weijie Wang***, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen
+
+[**Project**](http://scimind.ai/sciknoweval/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
+- This paper introduce the SciKnowEval benchmark, a novel framework that systematically evaluates LLMs across five progressive levels of scientific knowledge. Specifically, we take biology and chemistry as the two instances of SciKnowEval and construct a dataset encompassing 50K multi-level scientific problems and solutions.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/street_gaussians.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +47,7 @@ My research interest is **computer vision** and I have been working as a **resea
 Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng
 
 [**Project**](https://zju3dv.github.io/street_gaussians/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:u5HHmVD_uO8C'></span></strong>
-- This paper aims to tackle the problem of modeling dynamic urban street scenes from monocular videos. 
+- This paper aims to tackle the problem of modeling dynamic urban street scenes from monocular videos. We introduce Street Gaussians, a new explicit scene representation that tackles all these limitations.
 
 </div>
 </div>

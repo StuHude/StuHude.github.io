@@ -35,7 +35,7 @@ I am a junior student at <a href='https://www.zju.edu.cn/english/'>Zhejiang Univ
 
 Kehua Feng†, Keyan Ding†, **Weijie Wang**†, Xiang Zhuang, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen(† equal contribution)
 
-[**Project**](http://scimind.ai/sciknoweval/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
+[**Project**](http://scimind.ai/sciknoweval/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:u-x6o8ySG0sC'></span></strong>
 - This paper introduce the SciKnowEval benchmark, a novel framework that systematically evaluates LLMs across five progressive levels of scientific knowledge. Specifically, we take biology and chemistry as the two instances of SciKnowEval and construct a dataset encompassing 50K multi-level scientific problems and solutions.
 
 </div>

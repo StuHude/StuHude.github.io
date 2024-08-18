@@ -17,14 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior student at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, majoring in **Software Engineering**, minor in Advanced Honor Class of Engineering Education(ACEE) at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>, and will graduate from Zhejiang University with a B.S. in Engineering in 2025!
+<p align="center">
+  <img src="images/xth.jpg" alt="Profile Image" width="300">
+</p>
+
+I am a junior student at <a href='https://www.seu.edu.cn/english/'>Southeast University</a>, majoring in **Software Engineering** at <a href='https://cs.seu.edu.cn/main.htm'>Software Engineering College</a>, and will graduate from Southeast University with a B.E. in 2025!
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 I win the **Zhejiang Government Scholarship**!
-- *2023.11*: &nbsp;🎉🎉 I win the **Second Class Scholarship** in Zhejiang University!
-- *2023.08*: &nbsp;🎉🎉 I completed the <a href='https://cgpc2023.github.io/index.html'>**CCF Computer Graphics Starter Program Summer Camp**</a> at Tsinghua University!
-- *2023.01*: &nbsp;🎉🎉 I win the **Meritorious Winner** of The Interdisciplinary Contest in Modeling, teamed up with Shuai Yang and Wei Zhou.
+- *2024.05*: &nbsp;🎉🎉 I received the **Outstanding Project Completion Award** for my **National SRTP** project as the project **leader**!
+- *2024.02*: &nbsp;🎉🎉 I was granted a **national invention patent** as the first inventor.
+- *2023.11*: &nbsp;🎉🎉 I win the **ZhiShan Scholarship**!
+- *2023.11*: &nbsp;🎉🎉 I win the **Fourth place** in the Jiangsu Province Robotics Competition as the **captain** of the school team!
+- *2023.10*: &nbsp;🎉🎉 I win the **National First Prize** in the 5th Artificial Intelligence Algorithm Elite Competition.
+- *2023.09*: &nbsp;🎉🎉 I joined Guangdong Phantom Intelligence Technology Co., Ltd. and served as its **CTO**.
+- *2023.08*: &nbsp;🎉🎉 I win **first place（1/126）** in the professional skills competition for the 2021 cohort at Southeast University.
+- *2023.04*: &nbsp;🎉🎉 The SRTP project I led was designated as a **National-level SRTP project**.
 
 # 📝 Publications 
 
@@ -54,27 +62,23 @@ Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xi
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2023.11* Zhejiang Government Scholarship
-- *2023.11* Zhejiang University Jiecang Linear Motion Technology Scholarship 
-- *2023.11* Second Class Scholarship in Zhejiang University 
-- *2023.10* Academic Excellence Pioneer of Zhejiang University
-- *2023.10* Academic Progressive Role Model in Zhejiang University
-- *2023.06* Third Prize in the Final of the 16th Mock Mayor's Forum of Zhejiang University
-- *2023.01* Meritorious Winner of The Interdisciplinary Contest in Modeling
-- *2023.01* Second Prize of National College Students Mathematics Competition in Zhejiang Province
-- *2023.01* Third Prize of National College Students' Physics Competition in Zhejiang Province
-- *2022.11* Third Class Scholarship in Zhejiang University 
-- *2022.10* Academic Excellence Pioneer of Zhejiang University
-- *2021.01* Second Prize of China National Mathematics Olympiad in Shaanxi Province
-- *2021.01* Third Prize of Chinese Physics Olympiad in Shaanxi Province
-- *2020.07* Merit Student of Shaanxi Province
-- *2020.01* Third Prize of Chinese Chemistry Olympiad in Shaanxi Province
-- *2019.12* Outstanding Middle School Student, Xi'an City, Shaanxi Province
+# School Experience
+- *2024.05-present* **Research Intern** at Institute of Automation, Chinese Academy of Sciences 
+- *2021.08-present* **Undergraduate Student** in Southeast University 
+- *2022.09-2023.07* **Leader** of the Competitions Department for the School of Computer Science, School of Software, and School of Artificial Intelligence at Southeast University. 
 
-# 📖 Educations
-- *2021.09 - 2025.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a Bachelor's degree in Software Engineering with a minor in Advanced Honor Class of Engineering Education at <a href='https://ckc.zju.edu.cn/ckcen/'>Chu Kochen Honors College</a>. 
-- *2018.09 - 2021.06*, <a href='https://cadyzx.a.101.com/'>Xian Changan No.1 High School</a>. I was a student in the experimental class of Chang'an No. 1 High School and tutored for high school competitions at the same time.
+
+# Industry Experience
+- *2023.09-present* **CTO** at Guangdong Phantom Intelligence Technology Co., Ltd.
+- *2024.04* Our company was invited to <a href='https://www.bilibili.com/video/BV1fZ421v7c9/'>**give a presentation at Baidu's AIGC promotional campaign**</a> and introduce our project to the participants.
+- *2024.02* Our company was invited by Youmi to participate in the <a href='https://mp.weixin.qq.com/s/vG0ncyngTPZVkeX_g2xxBA'>Guangdong-Macao Youth Innovation and Entrepreneurship AI Exhibition</a> and showcase our project
+- *2024.01* Our company has become an **official technical partner** of Baidu PaddlePaddle.
+- *2023.05* I was invited to participate in the **Web3×AI Enterprise Exchange Conference** organized by Amazon and Wanxiang Blockchain
+
 
 # 🎹 Interesting Things!
-- I have a note website <a href='https://note.lhmd.top'>🏛️ lhmd's note</a> for documenting the learning process.
+- **Badminton** I used to be a member of the county badminton team and once achieved sixth place in the men's singles at the city badminton tournament.
+- **Recitation** I won the Gold Award in the Youth Category at the 4th Star of China Global Chinese Culture and Arts Festival.
+- **Bamboo flute** I achieved the Level 8 certification in bamboo flute and won the Special Prize at the 8th "Dancing Across the Straits Cup" competition.
+- **Swimming** I am a member of the county swimming team, and I swim in the river every summer.
+- **Teamfight Tactics** I used to be a streamer, and I reached the Master tier in every season of Teamfight Tactics.

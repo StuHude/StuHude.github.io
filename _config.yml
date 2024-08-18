@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weijie Wang"
+title                    : "Yicheng Xiao"
 description              : ""
-repository               : "lhmd/lhmd.github.io"
+repository               : "StuHude/hude.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weijie Wang \n 王伟杰"
+  name             : "Yicheng Xiao \n 肖以成"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
-  employer         :
+  bio              : "Southeast University"
+  location         : "Beijing, China"
+  employer         : "广东省幻境智能科技有限公司 CTO"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Hsxmwr0AAAAJ"
-  email            : "zjuwjwang@gamil.com"
+  email            : "213214063@seu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : lhmd # e.g., "github username"
+  github           : StuHude # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,13 +45,13 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0009-0006-9088-1471 # e.g., "https://orcid.org/xxxx"
+  orcid            : #https://orcid.org/0009-0006-9088-1471 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : wjwang2003
+  twitter          : #wjwang2003
   vine             :
   weibo            :
   xing             :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

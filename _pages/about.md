@@ -63,17 +63,17 @@ Yunzhi Yan, Haotong Lin, Chenxu Zhou, **Weijie Wang**, Haiyang Sun, Kun Zhan, Xi
 </div>
 
 # School Experience
-- *2024.05-present* **Research Intern** at Institute of Automation, Chinese Academy of Sciences 
-- *2021.08-present* **Undergraduate Student** in Southeast University 
-- *2022.09-2023.07* **Leader** of the Competitions Department for the School of Computer Science, School of Software, and School of Artificial Intelligence at Southeast University. 
+- ***2024.05-Present*** &nbsp; **Research Intern** at Institute of Automation, Chinese Academy of Sciences 
+- ***2021.08-Present*** &nbsp; **Undergraduate Student** in Southeast University 
+- ***2022.09-2023.07*** &nbsp; **Leader** of the Competitions Department for the School of Computer Science, School of Software, and School of Artificial Intelligence at Southeast University. 
 
 
 # Industry Experience
-- *2023.09-present* **CTO** at Guangdong Phantom Intelligence Technology Co., Ltd.
-- *2024.04* Our company was invited to <a href='https://www.bilibili.com/video/BV1fZ421v7c9/'>**give a presentation at Baidu's AIGC promotional campaign**</a> and introduce our project to the participants.
-- *2024.02* Our company was invited by Youmi to participate in the <a href='https://mp.weixin.qq.com/s/vG0ncyngTPZVkeX_g2xxBA'>Guangdong-Macao Youth Innovation and Entrepreneurship AI Exhibition</a> and showcase our project
-- *2024.01* Our company has become an **official technical partner** of Baidu PaddlePaddle.
-- *2023.05* I was invited to participate in the **Web3×AI Enterprise Exchange Conference** organized by Amazon and Wanxiang Blockchain
+- ***2023.09-Present*** &emsp;**CTO** at Guangdong Phantom Intelligence Technology Co., Ltd.
+- ***2024.04*** &emsp;&emsp;&emsp;&emsp;&emsp;Our company was invited to <a href='https://www.bilibili.com/video/BV1fZ421v7c9/'>**give a presentation at Baidu's AIGC promotional campaign**</a> and introduce our project to the participants.
+- ***2024.02*** &emsp;&emsp;&emsp;&emsp;&emsp;Our company was invited by Youmi to participate in the <a href='https://mp.weixin.qq.com/s/vG0ncyngTPZVkeX_g2xxBA'>Guangdong-Macao Youth Innovation and Entrepreneurship AI Exhibition</a> and showcase our project
+- ***2024.01*** &emsp;&emsp;&emsp;&emsp;&emsp;Our company has become an **official technical partner** of Baidu PaddlePaddle.
+- ***2023.05*** &emsp;&emsp;&emsp;&emsp;&emsp;I was invited to participate in the **Web3×AI Enterprise Exchange Conference** organized by Amazon and Wanxiang Blockchain
 
 
 # 🎹 Interesting Things!

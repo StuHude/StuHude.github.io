@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p align="center">
-  <img src="images/xth.jpg" alt="Profile Image" width="300">
+  <img src="images/xth.jpg" alt="Profile Image" width="100%">
 </p>
 
 I am a junior student at <a href='https://www.seu.edu.cn/english/'>Southeast University</a>, majoring in **Software Engineering** at <a href='https://cs.seu.edu.cn/main.htm'>Software Engineering College</a>, and will graduate from Southeast University with a B.E. in 2025!
